@@ -1,0 +1,29 @@
+ .baniere .row{
+    margin-top: 5%;
+    width: 100%;
+    height: 15%;
+   
+} 
+
+
+.baniere .row{
+    display: flex;
+    justify-content: space-between;
+}
+.col-baniere1 .col-baniere2{
+
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.col-baniere1 img{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
+.col-baniere2 img{
+    display: flex;
+    width: 100%;
+    height: auto;
+}
